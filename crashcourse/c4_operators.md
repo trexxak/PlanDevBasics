@@ -1,5 +1,5 @@
 ## IV. Operatoren
-Eine Operation bedingt immer mindestens zwei Elemente _(Operanden)_. Die Operation selbst kann dabei grundsätzlich __arithmetischer__, __vergleichender__, __zuweisender__ oder __logischer__ Natur sein.
+Eine Operation bedingt immer mindestens zwei Elementen _(Operanden)_. Die Operation selbst kann dabei grundsätzlich __arithmetischer__, __vergleichender__, __zuweisender__ oder __logischer__ Natur sein.
 
 ### 1. Arithmetische Operatoren
 > ![7](../bilder/bas_07.png)
@@ -7,7 +7,7 @@ Eine Operation bedingt immer mindestens zwei Elemente _(Operanden)_. Die Operati
 #### CODEBEISPIEL:
 > ![8](../bilder/bas_08.png) 
 
-Arithmetische Operatoren beinhalten immer mindestens die 4 Grundrechenarten und den __Modulo__-Operator. Im Beispiel sind auch die 2 C-Sprachen-typischen __Inkrement__- und __Dekrement__-Operatoren aufgeführt. 
+Arithmetische Operatoren beinhalten immer mindestens die vier Grundrechenarten und den __Modulo__-Operator. Im Beispiel sind auch die zwei C-Sprachen-typischen __Inkrement__- und __Dekrement__-Operatoren aufgeführt. 
 
 Ihre Funktion ist das mathematische Berechnen der Operanden.
 
