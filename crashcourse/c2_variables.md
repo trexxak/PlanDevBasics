@@ -7,7 +7,7 @@ Im Beispiel wird durch x unsere Variable beschrieben. Der Name der Variable selb
 
 Durch das "=" wird der Variablen der rechtsstehende __Wert__ zugeordnet: 42.
 
-In der Regel obliegt die Benennung von Variabeln dem Programmierer, jedoch gibt es _good practices_ und _style guidelines_ um Code lesbar zu halten,möglicherweise weiterhin auch vom Arbeitgeber vorgegebene _best practices_ die eingehalten werden sollten.
+In der Regel obliegt die Benennung von Variabeln dem Programmierer, jedoch gibt es _good practices_ und _style guidelines_ um Code lesbar zu halten, möglicherweise weiterhin auch vom Arbeitgeber vorgegebene _best practices_ die eingehalten werden sollten.
 
 ### 1. Deklaration
 > ![2](../bilder/bas_02.png) 
@@ -30,4 +30,4 @@ Dieses Beispiel ist funktionsgleich mit dem ersten.
 ### 3. Zuweisung
 > ![5](../bilder/bas_05.png)
 
-Beliebig viele Zuweisungen dürfen der Initialisierung folgen. Im Beispiel sind 4 aufeinanderfolgende Zuweisungen angegeben.
+Beliebig viele Zuweisungen dürfen der Initialisierung folgen. Im Beispiel sind vier aufeinanderfolgende Zuweisungen angegeben.
