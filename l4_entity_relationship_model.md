@@ -18,7 +18,7 @@ Seit Chen wurde das __Entity Relationship Modell__ weiterentwickelt und speziali
 
 
 ### Relationship _(Beziehung)_
-![Beziehung](/bilder/erm_relation.png)
+![Beziehung](/bilder/erm_relationship.png)
 * Raute
 * sprachliches Pendant: __Verben__
 * auf spezielle Beziehungsbezeichnung sollte geachtet werden, um die Struktur und Lesbarkeit zu wahren. Auf das Verb _"haben"_ sollte gänzlich verzichtet werden, da es zum einen zu unspezifisch und zum anderen zu allgemeingültig ist.
