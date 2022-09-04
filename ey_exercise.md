@@ -1,7 +1,7 @@
 # Übungen
 ## zu Flowcharts:
 ### a) Echo
-> Zeichnen Sie einen Flow Chart der ein Programm, beschreibt welches eine Benutzereingabe 100 mal ausgibt und dann endet.
+> Zeichnen Sie einen Flow Chart der ein Programm beschreibt, welches eine Benutzereingabe 100 mal ausgibt und dann endet.
 
 ### b) Wecker
 > Zeichnen Sie einen Flow Chart der ein Programm beschreibt, welches jeden Dienstag um 8:00 Uhr und jeden Donenrstag um 16:30 Uhr "AUFWACHEN!" ausgibt.
