@@ -8,7 +8,7 @@ Kontrollstrukturen können in sich selbst jeweils weitere Kontrollstrukturen beh
 > ![14](../bilder/bas_14.png)
 
 
-Bei einer Verzweigung (oder __if-Anweisung__), wird die Bedingung geprüft und der nachfolgende Code nur dann ausgeführt, wenn die Bedingung den Wert __true__ hat.  
+Bei einer Verzweigung (oder __if-Anweisung__), wird die Bedingung geprüft und der nachfolgende Code nur dann ausgeführt, wenn die Bedingung den Wert __true__ annimmt. 
 
 Die __else-Anweisung__, kann in der Regel nur auf eine vorhergehende __if-Anweisung__ folgen, und bestimmt den weiterführenden Code, sollte die if-Bedingung falsch sein. Eine else-Anweisung ist optional, das heißt, sollte es erwünscht sein, kann auch nur nach der Wahrheit der if-Bedingung "gefiltert" werden.
 
