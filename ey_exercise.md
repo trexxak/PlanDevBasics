@@ -4,7 +4,7 @@
 > Zeichnen Sie einen Flow Chart der ein Programm beschreibt, welches eine Benutzereingabe 100 mal ausgibt und dann endet.
 
 ### b) Wecker
-> Zeichnen Sie einen Flow Chart der ein Programm beschreibt, welches jeden Dienstag um 8:00 Uhr und jeden Donenrstag um 16:30 Uhr "AUFWACHEN!" ausgibt.
+> Zeichnen Sie einen Flow Chart der ein Programm beschreibt, welches jeden Dienstag um 8:00 Uhr und jeden Donnerstag um 16:30 Uhr "AUFWACHEN!" ausgibt.
 
 ### c) Taschenrechner
 > Zeichnen Sie einen Flow Chart der einen Taschenrechner beschreibt _(4 Grundrechenarten)_.
