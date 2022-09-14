@@ -24,11 +24,13 @@ Die Unified Modelling Language _(UML)_ ist eine grafische Modellierungssprache, 
 
 * __Feld__.
 * Format: _bezeichner : datentyp = wert_
+* Unterstrichene Attribute sind __Klassenvariablen__.
 
 #### Operationen
 
 * __Methode__.
 * Format: _bezeichner(parameter1 : datentyp, parameterN : datentyp) : rückgabewert_
+* Unterstrichene Operationen sind __Klassenmethoden__.
 
 #### Sichtbarkeit
 
